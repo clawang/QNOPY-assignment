@@ -213,7 +213,6 @@ function MapWidget(props) {
 	        	<h4>Capture Coordinates</h4>
 	        	<p>Latitude: {props.coords.latitude}</p>
 	        	<p>Longitude: {props.coords.longitude}</p>
-	        	<button onClick={props.btnClick}>Capture</button><button onClick={props.btnClick} className="cancel">Cancel</button>
 	        </div>
 	        <Map
 	          google={props.google}
@@ -235,6 +234,7 @@ function MapWidget(props) {
 			  	}} />
 	        	{displayMarker()}
 	        </Map>
+	        <button onClick={props.btnClick}>Capture</button><button onClick={props.btnClick} className="cancel">Cancel</button>
         </div>
     );
 
