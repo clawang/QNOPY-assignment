@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/qnopy/static/css/main.781a90c3.chunk.css",
-    "main.js": "/qnopy/static/js/main.ea25c543.chunk.js",
-    "main.js.map": "/qnopy/static/js/main.ea25c543.chunk.js.map",
-    "runtime-main.js": "/qnopy/static/js/runtime-main.774070e2.js",
-    "runtime-main.js.map": "/qnopy/static/js/runtime-main.774070e2.js.map",
-    "static/js/2.99b76fda.chunk.js": "/qnopy/static/js/2.99b76fda.chunk.js",
-    "static/js/2.99b76fda.chunk.js.map": "/qnopy/static/js/2.99b76fda.chunk.js.map",
-    "index.html": "/qnopy/index.html",
-    "precache-manifest.24a1a369a6e0caf418099149469d5d8c.js": "/qnopy/precache-manifest.24a1a369a6e0caf418099149469d5d8c.js",
-    "service-worker.js": "/qnopy/service-worker.js",
-    "static/css/main.781a90c3.chunk.css.map": "/qnopy/static/css/main.781a90c3.chunk.css.map",
-    "static/js/2.99b76fda.chunk.js.LICENSE.txt": "/qnopy/static/js/2.99b76fda.chunk.js.LICENSE.txt",
-    "static/media/photos.csv": "/qnopy/static/media/photos.39e88c51.csv",
-    "static/media/pin.png": "/qnopy/static/media/pin.a07280f4.png"
+    "main.css": "/qnopy-assignment/static/css/main.781a90c3.chunk.css",
+    "main.js": "/qnopy-assignment/static/js/main.8c677cfb.chunk.js",
+    "main.js.map": "/qnopy-assignment/static/js/main.8c677cfb.chunk.js.map",
+    "runtime-main.js": "/qnopy-assignment/static/js/runtime-main.c12b9186.js",
+    "runtime-main.js.map": "/qnopy-assignment/static/js/runtime-main.c12b9186.js.map",
+    "static/js/2.99b76fda.chunk.js": "/qnopy-assignment/static/js/2.99b76fda.chunk.js",
+    "static/js/2.99b76fda.chunk.js.map": "/qnopy-assignment/static/js/2.99b76fda.chunk.js.map",
+    "index.html": "/qnopy-assignment/index.html",
+    "precache-manifest.da2fb347ac5758a7616be34560f23882.js": "/qnopy-assignment/precache-manifest.da2fb347ac5758a7616be34560f23882.js",
+    "service-worker.js": "/qnopy-assignment/service-worker.js",
+    "static/css/main.781a90c3.chunk.css.map": "/qnopy-assignment/static/css/main.781a90c3.chunk.css.map",
+    "static/js/2.99b76fda.chunk.js.LICENSE.txt": "/qnopy-assignment/static/js/2.99b76fda.chunk.js.LICENSE.txt",
+    "static/media/photos.csv": "/qnopy-assignment/static/media/photos.39e88c51.csv",
+    "static/media/pin.png": "/qnopy-assignment/static/media/pin.a07280f4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.774070e2.js",
+    "static/js/runtime-main.c12b9186.js",
     "static/js/2.99b76fda.chunk.js",
     "static/css/main.781a90c3.chunk.css",
-    "static/js/main.ea25c543.chunk.js"
+    "static/js/main.8c677cfb.chunk.js"
   ]
 }
